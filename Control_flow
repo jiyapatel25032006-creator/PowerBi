@@ -1,0 +1,26 @@
+#if Statement
+#age = 20
+#if age >= 18:
+ #   print("Eligible to vote")
+
+#if-else Statement
+# num = 10
+# if num % 2 == 0 :
+   # print("Number is even")
+#else :
+   # print("Number is odd")    
+
+#if-elif-else Ladder
+# marks = 86
+# if marks >= 90 :
+#     print("Grade A")
+# elif marks >= 80 :
+#     print("Grade B")
+# else :
+#     print("Grade C")   
+
+# Boolean Expressions #Conditions always evaluate to True or False.
+# print(10 > 5)
+# print(5 == 3)
+
+# Logical Operators
